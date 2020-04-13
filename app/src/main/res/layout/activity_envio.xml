@@ -42,14 +42,14 @@
                 android:id="@+id/EnvioActivityTextViewNombreRecibido"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:hint="[nombre recibido] "
+                android:text="[nombre recibido]"
                 android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/EnvioActivityTextViewApellidoRecibido"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:hint="[apellido recibido]"
+                android:text="[apellido recibido]"
                 android:textSize="20sp" />
 
 
@@ -66,7 +66,7 @@
                 android:id="@+id/EnvioActivityTextViewEdadRecibida"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:hint="[edad recibida]"
+                android:text="[edad recibida]"
                 android:textSize="20sp" />
 
             <TextView
@@ -89,7 +89,7 @@
                 android:id="@+id/EnvioActivityTextViewCarreraRecibida"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:hint="[carrera recibida]"
+                android:text="[carrera recibida]"
                 android:textSize="20sp" />
 
         </LinearLayout>
